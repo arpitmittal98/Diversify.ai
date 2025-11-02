@@ -1,4 +1,4 @@
-# Diverisfy.ai
+# Diversify.ai
 
 **A Chrome extension and backend system designed to help neurodivergent job seekers understand job descriptions, assess their skills match, evaluate company inclusivity and practice job specific interviews.**
 
